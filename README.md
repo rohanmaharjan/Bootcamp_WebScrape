@@ -1,3 +1,4 @@
+This Bootcamp is orgainnsed by "LUMIVYA TECHNOLOGY".
 # 📚 Get Started Guide
 
 This guide will help you set up your development environment and get started with the projects in this bootcamp.
